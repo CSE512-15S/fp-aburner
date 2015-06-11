@@ -4,7 +4,7 @@ Alex Burner
 aburner@uw.edu
 
 
-Wikitree was built for both the Informatics capstone project and the CSE 512 final project concurrently. For CSE 512 I was the only team member, but for the Informatics capstone I was on a team with James K Prow and Christina K Xiao. James handled Digtal Ocean setup, Angular architecture, routing, and sessions logic. Christina was our project manager. We all participated in strategy, feature brainstorming, research interviews, and user testing.
+Wikitree was built for both the Informatics capstone project and the CSE 512 final project. For CSE 512 I was the only team member, but for the Informatics capstone I was on a team with James K Prow and Christina K Xiao. James handled Digtal Ocean setup, Angular architecture, routing, and sessions logic. Christina was our project manager. We all participated in strategy, feature brainstorming, research interviews, and user testing.
 
 I came up with the idea for Wikitree in September of 2011, but it's taken me this long to find the time, talent, and team to be able to pull it off. I hope you enjoy!
 
@@ -17,8 +17,8 @@ Wikitree is a web application built to help undergraduates with their research. 
 Special thanks to Michael Freeman, Jeffrey Heer, Jessica Hullman, David McDonald, Nam-ho Park, Jason Porteno, David Stearns, and Jevin West.
 
 
-[Poster](https://github.com/CSE512-15S/fp-aburner/raw/master/final/poster-aburner.pdf),
-[Paper](https://github.com/CSE512-15S/fp-aburner/raw/master/final/paper-aburner.pdf),
+[Poster](https://github.com/CSE512-15S/fp-aburner/raw/gh-pages/final/poster-aburner.pdf),
+[Paper](https://github.com/CSE512-15S/fp-aburner/raw/gh-pages/final/paper-aburner.pdf),
 [Page](http://cse512-15s.github.io/fp-aburner/)
 
 
@@ -31,8 +31,8 @@ Fork & clone both the main repo and the env repo (these are designed to live as 
 - Env repo: https://github.com/wikitree-website/wikitree-env
 
 For 512, there are duplicates of these repos in this repo
-- Main ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/master/code/wikitree
-- Env ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/master/code/wikitree-env
+- Main ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/gh-pages/code/wikitree
+- Env ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/gh-pages/code/wikitree-env
 
 In the main repo, run:
 ```
