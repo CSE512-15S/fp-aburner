@@ -16,7 +16,8 @@ Wikitree is a web application built to help undergraduates with their research. 
 Special thanks to Michael Freeman, Jeffrey Heer, Jessica Hullman, David McDonald, Nam-ho Park, Jason Porteno, David Stearns, and Jevin West.
 
 [Poster](https://github.com/CSE512-15S/fp-aburner/raw/master/final/poster-aburner.pdf),
-[Paper](https://github.com/CSE512-15S/fp-aburner/raw/master/final/paper-aburner.pdf)
+[Paper](https://github.com/CSE512-15S/fp-aburner/raw/master/final/paper-aburner.pdf),
+[Page](http://cse512-15s.github.io/fp-aburner/)
 
 ## Running Instructions
 
