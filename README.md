@@ -30,7 +30,7 @@ Fork & clone both the main repo and the env repo (these are designed to live as 
 - Main repo: https://github.com/wikitree-website/wikitree
 - Env repo: https://github.com/wikitree-website/wikitree-env
 
-For 512, there are duplicates of these repos in this repo
+Or, for 512, there are duplicates of these repos in this repo
 - Main ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/gh-pages/code/wikitree
 - Env ~~repo~~: https://github.com/CSE512-15S/fp-aburner/tree/gh-pages/code/wikitree-env
 
